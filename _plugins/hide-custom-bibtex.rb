@@ -1,3 +1,4 @@
+require 'jekyll-scholar-7.1.3'
 module Jekyll
   module HideCustomBibtex
     def hideCustomBibtex(input)
