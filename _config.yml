@@ -243,7 +243,7 @@ plugins:
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
-  - jekyll-scholar
+  - jekyll-scholar-7.1.3
   - jekyll-sitemap
   - jekyll-tabs
   - jekyll-toc
