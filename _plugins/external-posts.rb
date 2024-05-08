@@ -1,6 +1,7 @@
 require 'feedjira'
 require 'httparty'
 require 'jekyll'
+require 'jekyll-scholar-7.1.3'
 
 module ExternalPosts
   class ExternalPostsGenerator < Jekyll::Generator
